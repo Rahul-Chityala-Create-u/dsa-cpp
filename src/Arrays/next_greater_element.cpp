@@ -11,7 +11,7 @@ int main(){
 	while(write < size){
 		if(scanner >= size){
 			res[write] = -1;
-			continue;
+			break;
 		}
 		if(arr[scanner] > arr[write]){
 			res[write] = arr[scanner];
