@@ -5,6 +5,7 @@ This repository contains my implementations and solutions to Data Structures and
 ## Topics Covered
 
 * Arrays
+* Stacks
 
 ## Topics Planned
 
